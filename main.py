@@ -7,7 +7,6 @@ import taskset_generator as tg
 # set these variables as needed
 num_tasks = 4
 util_inc = 0.1
-criticality_factor = 2
 
 def test_and_get_data(crit_factor):
     x = []
